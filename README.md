@@ -1,0 +1,2 @@
+# paginatgs
+TEORIA GENERAL EN SISTEMAS
